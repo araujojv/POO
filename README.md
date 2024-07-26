@@ -1,4 +1,3 @@
-Claro! Aqui está um README mais voltado para destacar sua contribuição e explicar o projeto como parte do seu portfólio:
 
 ```markdown
 # Projeto de POO - Gerenciamento de Restaurante
